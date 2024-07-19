@@ -1,0 +1,26 @@
+{
+  "name": "pix-api-client",
+  "version": "1.0.0",
+  "description": "Un simple module capable d'interagir avec le service français Pix",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "keywords": [
+    "pix",
+    "api",
+    "client",
+    "pix-api",
+    "wrapper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeMaitre4523/pix-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LeMaitre4523/pix-api/issues"
+  },
+  "homepage": "https://github.com/LeMaitre4523/pix-api#readme",
+  "author": "LeMaitre4523",
+  "license": "GPL-3.0"
+}
