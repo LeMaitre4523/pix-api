@@ -12,11 +12,15 @@ Un simple module capable d'interagir avec le service français [Pix](https://pix
 - Obtenir ses certifications
 - Révoquer les tokens
 
+## Installation
+```bash
+  npm i pix-api-client
+```
 
 ## Exemples
 
 ```javascript
-const PIX = require("pix-api");
+const PIX = require("pix-api-client");
 const pix = new PIX();
 
 //Connexion avec des identifiants
